@@ -14,6 +14,7 @@
 
 - [Deno Lint](https://github.com/denoland/deno_lint)
 - [Flow](https://flow.org/), a static type checker for JavaScript, written in OCaml
+- [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter, written in Rust
 
 
 ## Bundlers
