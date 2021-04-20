@@ -25,6 +25,7 @@
 
 - [swc](https://github.com/swc-project/swc), TypeScript/JavaScript compiler in Rust
 - [(experimental) Relay compiler](https://github.com/facebook/relay/tree/master/compiler), in Rust
+- [Paperclip](https://paperclip.dev/), presentational component compiler in Rust + WASM
 
 ## Related Articles
 
