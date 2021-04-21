@@ -6,6 +6,7 @@
 ## Contents
 
 - [Linters](#linters)
+- [Formatters](#formatters)
 - [Bundlers](#bundlers)
 - [Compilers](#compilers)
 - [Related Articles](#related-articles)
@@ -16,6 +17,9 @@
 - [Flow](https://flow.org/), a static type checker for JavaScript, written in OCaml
 - [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter, written in Rust
 
+## Formatters
+
+- [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. support several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
 
 ## Bundlers
 
