@@ -10,6 +10,7 @@
 - [Engines](#engines)
 - [Formatters](#formatters)
 - [Linters](#linters)
+- [Miscellaneous](#miscellaneous)
 - [Related Articles](#related-articles)
 
 ## Bundlers
