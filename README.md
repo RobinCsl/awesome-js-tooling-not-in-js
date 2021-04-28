@@ -7,6 +7,7 @@
 
 - [Bundlers](#bundlers)
 - [Compilers](#compilers)
+- [Engines](#engines)
 - [Formatters](#formatters)
 - [Linters](#linters)
 - [Related Articles](#related-articles)
@@ -22,6 +23,13 @@
 - [Paperclip](https://paperclip.dev/), presentational component compiler in Rust + WASM
 - [Closure Compiler](https://github.com/google/closure-compiler), in Java
 
+## Engines
+
+- [Boa](https://github.com/boa-dev/boa), an embeddable and experimental Javascript engine, written in Rust
+- [Hermes](https://hermesengine.dev/), JavaScript engine optimized for React Native, written in C++
+- [V8](https://v8.dev/), high-performance JavaScript and WebAssembly engine, written in C++
+
+
 ## Formatters
 
 - [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. support several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
@@ -32,6 +40,12 @@
 - [Flow](https://flow.org/), a static type checker for JavaScript, written in OCaml
 - [quick-lint-js](https://quick-lint-js.com/), written in C++
 - [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter, written in Rust
+
+## Miscellaneous
+
+_If you can think of a more appropriate category for the items below, PRs welcome!_
+
+- [Volta](https://volta.sh/), a JavaScript Tool Manager, written in Rust
 
 ## Related Articles
 
