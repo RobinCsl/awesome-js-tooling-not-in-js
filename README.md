@@ -5,22 +5,11 @@
 
 ## Contents
 
-- [Linters](#linters)
-- [Formatters](#formatters)
 - [Bundlers](#bundlers)
 - [Compilers](#compilers)
+- [Formatters](#formatters)
+- [Linters](#linters)
 - [Related Articles](#related-articles)
-
-## Linters
-
-- [Deno Lint](https://github.com/denoland/deno_lint)
-- [Flow](https://flow.org/), a static type checker for JavaScript, written in OCaml
-- [quick-lint-js](https://quick-lint-js.com/), written in C++
-- [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter, written in Rust
-
-## Formatters
-
-- [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. support several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
 
 ## Bundlers
 
@@ -32,6 +21,17 @@
 - [(experimental) Relay compiler](https://github.com/facebook/relay/tree/master/compiler), in Rust
 - [Paperclip](https://paperclip.dev/), presentational component compiler in Rust + WASM
 - [Closure Compiler](https://github.com/google/closure-compiler), in Java
+
+## Formatters
+
+- [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. support several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
+
+## Linters
+
+- [Deno Lint](https://github.com/denoland/deno_lint)
+- [Flow](https://flow.org/), a static type checker for JavaScript, written in OCaml
+- [quick-lint-js](https://quick-lint-js.com/), written in C++
+- [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter, written in Rust
 
 ## Related Articles
 
