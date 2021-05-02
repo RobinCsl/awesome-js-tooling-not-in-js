@@ -46,6 +46,7 @@
 
 _If you can think of a more appropriate category for the items below, PRs welcome!_
 
+- [Fast Node Manager (fnm)](https://github.com/Schniz/fnm), Node.js version manager, written in Rust
 - [Volta](https://volta.sh/), a JavaScript Tool Manager, written in Rust
 
 ## Related Articles
