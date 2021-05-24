@@ -27,6 +27,7 @@
 ## Engines
 
 - [Boa](https://github.com/boa-dev/boa), an embeddable and experimental Javascript engine, written in Rust
+- [Goja](https://github.com/dop251/goja), an ECMAScript/JavaScript engine, written in Go 
 - [Hermes](https://hermesengine.dev/), JavaScript engine optimized for React Native, written in C++
 - [V8](https://v8.dev/), high-performance JavaScript and WebAssembly engine, written in C++
 
