@@ -50,6 +50,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 - [Fast Node Manager (fnm)](https://github.com/Schniz/fnm), Node.js version manager, written in Rust
 - [Volta](https://volta.sh/), a JavaScript Tool Manager, written in Rust
 - [es-module-lexer](https://github.com/guybedford/es-module-lexer), a JavaScript module syntax lexer, written in C
+- [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust), find unused dependencies in Node.js applications, written in Rust
 
 ## Related Articles
 
