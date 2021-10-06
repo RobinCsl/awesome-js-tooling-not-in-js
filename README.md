@@ -51,6 +51,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 - [Volta](https://volta.sh/) - JavaScript Tool Manager, written in Rust.
 - [es-module-lexer](https://github.com/guybedford/es-module-lexer) - JavaScript module syntax lexer, written in C.
 - [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust) - Find unused dependencies in Node.js applications, written in Rust.
+- [Rome](https://rome.tools) - Linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS, 🚧 currently being re-written in Rust ([source](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)).
 
 ## Related Articles
 
