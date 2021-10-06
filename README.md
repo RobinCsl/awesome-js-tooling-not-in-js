@@ -16,6 +16,7 @@
 ## Bundlers
 
 - [esbuild](https://esbuild.github.io/getting-started/) - JavaScript bundler in Go.
+- [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
 
 ## Compilers
 
