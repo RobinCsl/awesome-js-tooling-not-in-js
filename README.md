@@ -56,6 +56,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 - [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust) - Find unused dependencies in Node.js applications, written in Rust.
 - [Rome](https://rome.tools) - Linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS, 🚧 currently being re-written in Rust ([source](https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust)).
 - [Wrangler](https://github.com/cloudflare/wrangler) - CLI tool to develop Clouflare Workers, written in Rust.
+- [Turborepo](https://github.com/vercel/turborepo) - The high-performance build system for JavaScript & TypeScript codebases, written in Go.
 
 ## Related Articles
 
