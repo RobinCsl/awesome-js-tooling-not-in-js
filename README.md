@@ -22,7 +22,7 @@
 ## Compilers
 
 - [swc](https://github.com/swc-project/swc) - TypeScript/JavaScript compiler in Rust.
-- [Relay compiler](https://github.com/facebook/relay/tree/master/compiler) (RC available) - in Rust.
+- [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications, [compiler](https://github.com/facebook/relay/tree/main/compiler) in Rust.
 - [Paperclip](https://paperclip.dev/) - Presentational component compiler in Rust + WASM.
 - [Closure Compiler](https://github.com/google/closure-compiler) - in Java.
 
