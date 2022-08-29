@@ -17,7 +17,7 @@
 
 - [esbuild](https://esbuild.github.io/getting-started/) - JavaScript bundler in Go.
 - [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
-- [Bun](https://github.com/Jarred-Sumner/bun) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig. ([access to repository through Discord invite](https://twitter.com/jarredsumner/status/1444036635239215106?s=20))
+- [Bun](https://bun.sh/) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig.
 
 ## Compilers
 
@@ -32,6 +32,7 @@
 - [Goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine, written in Go .
 - [Hermes](https://hermesengine.dev/) - JavaScript engine optimized for React Native, written in C++.
 - [V8](https://v8.dev/) - High-performance JavaScript and WebAssembly engine, written in C++.
+- [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore) – JavaScript engine for Swift, Objective-C, and C-based apps, written in C++.
 
 
 ## Formatters
