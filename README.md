@@ -18,6 +18,7 @@
 - [esbuild](https://esbuild.github.io/getting-started/) - JavaScript bundler in Go.
 - [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
 - [Bun](https://bun.sh/) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig.
+- [Turbopack](https://turbo.build/pack) - incremental bundler optimized for JavaScript and TypeScript, written in Rust.
 
 ## Compilers
 
