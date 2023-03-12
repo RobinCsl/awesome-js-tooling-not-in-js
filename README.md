@@ -19,6 +19,7 @@
 - [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
 - [Bun](https://bun.sh/) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig.
 - [Turbopack](https://turbo.build/pack) - incremental bundler optimized for JavaScript and TypeScript, written in Rust.
+- [Rspack](https://github.com/web-infra-dev/rspack) – A fast web bundler (drop-in replacement for Webpack), written in Rust.
 
 ## Compilers
 
@@ -60,6 +61,7 @@ _If you can think of a more appropriate category for the items below, PRs welcom
 - [Wrangler](https://github.com/cloudflare/wrangler) - CLI tool to develop Clouflare Workers, written in Rust.
 - [Turborepo](https://github.com/vercel/turborepo) - The high-performance build system for JavaScript & TypeScript codebases, written in Go.
 - [Blueboat](https://github.com/losfair/blueboat) – all-in-one, multi-tenant serverless JavaScript runtime, written in Rust.
+- [Proto](https://github.com/moonrepo/proto) – A multi-language version and dependency manager, written in Rust.
 
 ## Related Articles
 
